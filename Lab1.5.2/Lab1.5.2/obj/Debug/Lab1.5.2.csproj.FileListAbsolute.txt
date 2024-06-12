@@ -1,0 +1,15 @@
+C:\Users\sz220\source\repos\Lab1.5.2\Lab1.5.2\bin\Debug\Lab1.5.2.exe.config
+C:\Users\sz220\source\repos\Lab1.5.2\Lab1.5.2\bin\Debug\Lab1.5.2.exe
+C:\Users\sz220\source\repos\Lab1.5.2\Lab1.5.2\bin\Debug\Lab1.5.2.pdb
+C:\Users\sz220\source\repos\Lab1.5.2\Lab1.5.2\obj\Debug\Lab1.5.2.csproj.AssemblyReference.cache
+C:\Users\sz220\source\repos\Lab1.5.2\Lab1.5.2\obj\Debug\MainWindow.g.cs
+C:\Users\sz220\source\repos\Lab1.5.2\Lab1.5.2\obj\Debug\App.g.cs
+C:\Users\sz220\source\repos\Lab1.5.2\Lab1.5.2\obj\Debug\Lab1.5.2_MarkupCompile.cache
+C:\Users\sz220\source\repos\Lab1.5.2\Lab1.5.2\obj\Debug\Lab1.5.2_MarkupCompile.lref
+C:\Users\sz220\source\repos\Lab1.5.2\Lab1.5.2\obj\Debug\MainWindow.baml
+C:\Users\sz220\source\repos\Lab1.5.2\Lab1.5.2\obj\Debug\Lab1.5.2.g.resources
+C:\Users\sz220\source\repos\Lab1.5.2\Lab1.5.2\obj\Debug\Lab1._5._2.Properties.Resources.resources
+C:\Users\sz220\source\repos\Lab1.5.2\Lab1.5.2\obj\Debug\Lab1.5.2.csproj.GenerateResource.cache
+C:\Users\sz220\source\repos\Lab1.5.2\Lab1.5.2\obj\Debug\Lab1.5.2.csproj.CoreCompileInputs.cache
+C:\Users\sz220\source\repos\Lab1.5.2\Lab1.5.2\obj\Debug\Lab1.5.2.exe
+C:\Users\sz220\source\repos\Lab1.5.2\Lab1.5.2\obj\Debug\Lab1.5.2.pdb
